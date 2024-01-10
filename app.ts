@@ -9,7 +9,6 @@
  * @returns {string}
  */
 function test(): string{
-  console.log("timestamp ok");
   return "ok";
 }// 
 //////////////////////////////////////////////////////////////
